@@ -1,0 +1,34 @@
+.order-table td
+{
+    height: 50px;
+}
+.button-checkbox a {
+    cursor: pointer;
+    display: inline-block;
+    padding: 2px 5px;
+    color: white;
+    position: absolute;
+    right: 4px;
+    top: 4px;
+    border-radius: 5px;
+    font-size: 12px;
+    text-align: center;
+}
+.text-orange { color: #FF6D22 !important; }
+.text-pink { color: #CE1FFF !important; }
+.text-blue { color: #0000FF !important; }
+.text-yellow { color: #FFF000 !important; }
+.text-red { color: #ff0000 !important;}
+.text-color-pink1 { color: #f6318c !important; }
+.text-color-green1 { color: #4ef037 !important; }
+
+.background-orange { background-color: #FF6D22 !important; }
+.background-pink { background-color: #CE1FFF !important; }
+.background-blue { background-color: #0000FF !important; }
+.background-yellow { background-color: #FFF000 !important; }
+.background-color-pink1 { background-color: #f6318c !important; }
+.background-color-green1 { background-color: #4ef037 !important; }
+
+.status-active { color: green !important; }
+.status-inactive { color: red !important; }
+.status-disable { color: gray !important; }

@@ -1,0 +1,1 @@
+<link href="{{ asset('css/admin_custom_style.css') }}" rel="stylesheet">
